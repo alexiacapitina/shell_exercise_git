@@ -1,0 +1,21 @@
+SHELL CHALLENGE
+
+Goal: create a shell script in /home/shell_exercise/alexia that satisfies all of the instructions listed below
+
+Note: Before you start, backup the four example files in another directory to have a copy of them just in case they get modified
+
+
+
+Instructions (the shell script must):
+
+- Import the variables within base.sh into your new script without copying and pasting them
+- Write a function that determines the number of files in the alexia/ directory and print it to the screen. If there are more files than expected,
+  exit the script with a message. Hint: take a look at the variables you just imported to know exepected value(s)
+- For all the example files in the alexia/ directory, you must rename the file to the value on the line (within that same file) given in the variables imported.
+- Generate a new example5.info file that contains the contents of all the original files
+- In example5.info, remove all the line breaks so that all the content is present one line.
+
+
+Once you execute the script, it should perform all of the above in one go. Expected result is a new example5.info file with no line breaks and renamed original files.
+
+

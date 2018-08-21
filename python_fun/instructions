@@ -1,0 +1,6 @@
+Texting problem:
+
+- Create a python script that texts "Hello World" to your phone
+- Make it so that you write the message from the command line and that message can make it as a text to your phone.
+
+Note: You will need to follow through the whole process to push and make a pull request for it.
